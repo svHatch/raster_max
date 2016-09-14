@@ -1,2 +1,13 @@
 # raster_max
-Example script to find the index of maximum values in a raster
+Example script to find the indices of maximum values in a raster
+
+# Installation
+
+## Dependencies
+
+This script requires Python2.7 to be installed, and to have the modules "osgeo"
+and "numpy" installed so that Python2.7 can find them.
+
+Install Python2.7: https://www.python.org/download/releases/2.7/
+Install osgeo: "pip install osgeo" (or your package manager of choice)
+Install numpy: "pip install numpy" 
